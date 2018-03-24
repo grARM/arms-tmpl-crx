@@ -1,0 +1,2 @@
+# arms-tmpl-crx
+browser
